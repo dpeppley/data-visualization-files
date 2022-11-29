@@ -1,178 +1,178 @@
 name,id,region,count,size,count_total
-Kosovo,OSA,Europe,2,4214,0
-Somaliland,ABV,Sub-Saharan Africa,88,110000,0
-West Bank,WLF,West and Central Asia,0,2263,0
-Lithuania,LTU,Europe,6,25213,681
-Costa Rica,CRI,Mesoamerica,39,19760,4300
-Luxembourg,LUX,Europe,7,998,640
-Latvia,LVA,Europe,9,24938,748
-Botswana,BWA,Sub-Saharan Africa,19,224607,1493
-Central African Republic,CAF,Sub-Saharan Africa,25,240534,1859
-Estonia,EST,Europe,9,17505,652
-Vanuatu,VUT,Oceania,32,7410,2312
-Zimbabwe,ZWE,Sub-Saharan Africa,28,150872,1933
-Paraguay,PRY,South America,21,157048,1441
-Suriname,SUR,South America,40,63251,2734
-Belarus,BLR,North Asia,10,80155,632
-Swaziland,SWZ,Sub-Saharan Africa,20,6704,1252
-South Sudan,SDS,Sub-Saharan Africa,24,248777,1467
-French Southern and Antarctic Lands,ATF,Antarctic,19,169800,1136
-Zambia,ZMB,Sub-Saharan Africa,42,290587,2445
-Mongolia,MNG,East Asia,19,603900,1092
-Finland,FIN,Europe,15,130559,848
-Israel,ISR,West and Central Asia,43,8550,2337
-Mali,MLI,Sub-Saharan Africa,23,478800,1240
-Guyana,GUY,South America,55,83000,2916
-Trinidad and Tobago,TTO,Caribbean Islands,44,1980,2325
-Greenland,GRL,Europe,8,836300,418
-Jordan,JOR,West and Central Asia,34,34495,1753
-Belize,BLZ,Mesoamerica,49,8867,2506
-East Timor,TLS,South and Southeast Asia,33,5794,1677
-Lesotho,LSO,Sub-Saharan Africa,13,11720,660
-Nicaragua,NIC,Mesoamerica,70,50337,3539
-Sudan,SDN,Sub-Saharan Africa,57,718700,2860
-Solomon Islands,SLB,Oceania,59,11157,2952
-El Salvador,SLV,Mesoamerica,39,8124,1936
 Afghanistan,AFG,West and Central Asia,19,252071,935
-Netherlands,NLD,Europe,24,16040,1178
-Somalia,SOM,Sub-Saharan Africa,67,246200,3211
-Republic of the Congo,COG,Sub-Saharan Africa,57,132047,2708
-Djibouti,DJI,Sub-Saharan Africa,42,8958,1989
-Kyrgyzstan,KGZ,West and Central Asia,13,77182,608
-Iceland,ISL,Europe,14,39769,654
-Burkina Faso,BFA,Sub-Saharan Africa,23,105946,1067
-Moldova,MDA,North Asia,12,13067,545
-Denmark,DNK,Europe,24,16584,1089
-Belgium,BEL,Europe,25,11849,1125
-Burundi,BDI,Sub-Saharan Africa,32,10747,1435
-Angola,AGO,Sub-Saharan Africa,80,481400,3550
-Namibia,NAM,Sub-Saharan Africa,57,318696,2513
-Yemen,YEM,West and Central Asia,60,203850,2635
-Bolivia,BOL,South America,71,14824,3003
-Eritrea,ERI,Sub-Saharan Africa,52,45406,2196
-Mozambique,MOZ,Sub-Saharan Africa,107,309496,4499
-Chad,TCD,Sub-Saharan Africa,27,495800,1126
-Rwanda,RWA,Sub-Saharan Africa,34,10169,1413
-Niger,NER,Sub-Saharan Africa,24,489200,991
-Armenia,ARM,West and Central Asia,15,11484,614
-Canada,CAN,North America,60,3855000,2449
-Ireland,IRL,Europe,30,39769,1214
-Tajikistan,TJK,West and Central Asia,16,54595,620
-The Bahamas,BHS,Caribbean Islands,55,5359,2099
-Saudi Arabia,SAU,West and Central Asia,61,830000,2264
-Norway,NOR,Europe,29,148729,1074
-Antarctica,ATA,Antarctic,7,5275000,258
-Taiwan,TWN,East Asia,113,13976,4131
-Gabon,GAB,Sub-Saharan Africa,77,103347,2762
-Papua New Guinea,PNG,Oceania,160,178704,5615
-Georgia,GEO,West and Central Asia,22,26911,772
-Malawi,MWI,Sub-Saharan Africa,60,45745,2096
-Nepal,NPL,South and Southeast Asia,49,56956,1707
-United Kingdom,GBR,Europe,48,93628,1659
-Oman,OMN,West and Central Asia,64,119499,2203
-Democratic Republic of the Congo,COD,Sub-Saharan Africa,150,905600,5140
-Gambia,GMB,Sub-Saharan Africa,61,4127,2085
-United Arab Emirates,ARE,West and Central Asia,45,32278,1500
-Egypt,EGY,North Africa,75,384791,2498
-Kenya,KEN,Sub-Saharan Africa,142,224961,4625
-Togo,TGO,Sub-Saharan Africa,72,21925,2344
-Puerto Rico,PRI,Caribbean Islands,58,3515,1886
-Benin,BEN,Sub-Saharan Africa,74,44310,2347
-Kuwait,KWT,West and Central Asia,33,6880,1039
-Ethiopia,ETH,Sub-Saharan Africa,64,429300,2006
-Bhutan,BTN,South and Southeast Asia,33,14824,1032
-Uzbekistan,UZB,West and Central Asia,22,172742,688
-Guinea-Bissau,GNB,Sub-Saharan Africa,65,13948,2023
-Senegal,SEN,Sub-Saharan Africa,81,75955,2519
-Ghana,GHA,Sub-Saharan Africa,92,92098,2860
-Poland,POL,Europe,37,124574,1148
-Iraq,IRQ,West and Central Asia,43,169235,1303
-Kazakhstan,KAZ,West and Central Asia,35,1052000,1055
-Azerbaijan,AZE,West and Central Asia,26,33436,777
-Turkmenistan,TKM,West and Central Asia,26,188456,767
-Iran,IRN,West and Central Asia,80,636400,2349
-Western Sahara,ESH,North Africa,43,102703,1246
-Slovakia,SVK,Europe,36,18933,1038
-Cote d'Ivoire,CIV,Sub-Saharan Africa,97,124503,2790
-Myanmar,MMR,South and Southeast Asia,165,261227,4723
-Panama,PAN,Mesoamerica,159,29157,4538
-Czech Republic,CZE,Europe,38,30452,1074
-Uganda,UGA,Sub-Saharan Africa,93,93065,2618
-Russia,RUS,North Asia,93,6602000,2610
-Qatar,QAT,West and Central Asia,33,4468,917
-South Korea,KOR,East Asia,64,38750,1752
-Sierra Leone,SLE,Sub-Saharan Africa,92,27699,2504
-Equatorial Guinea,GNQ,Sub-Saharan Africa,79,10831,2114
-Hungary,HUN,Europe,40,35917,1059
-Guinea,GIN,Sub-Saharan Africa,106,94926,2795
-Bulgaria,BGR,Europe,53,42855,1395
-Thailand,THA,South and Southeast Asia,221,198115,5783
-Peru,PER,South America,214,496200,5449
-Nigeria,NGA,Sub-Saharan Africa,134,356669,3365
-New Caledonia,NCL,Oceania,120,7150,2956
-Cambodia,KHM,South and Southeast Asia,127,69898,3105
-Venezuela,VEN,South America,216,353841,5275
-Mauritania,MRT,Sub-Saharan Africa,79,398000,1920
-Ukraine,UKR,North Asia,52,233062,1250
-Libya,LBY,North Africa,42,679400,1007
-Slovenia,SVN,Europe,66,7827,1557
-Pakistan,PAK,West and Central Asia,101,307374,2375
-Uruguay,URY,South America,59,68037,1378
-Honduras,HND,Mesoamerica,161,43433,3746
-Falkland Islands,FLK,South America,18,4700,416
-Guatemala,GTM,Mesoamerica,152,42042,3502
-North Korea,PRK,East Asia,48,46541,1092
-Serbia,SRB,Europe,53,34170,1194
-Jamaica,JAM,Caribbean Islands,80,4244,1792
-Lebanon,LBN,West and Central Asia,48,4036,1075
-Argentina,ARG,South America,138,1074000,3081
-Tunisia,TUN,North Africa,56,63170,1247
-Liberia,LBR,Sub-Saharan Africa,109,43000,2427
-Northern Cyprus,MNP,West and Central Asia,45,1295,975
-Switzerland,CHE,Europe,58,15940,1254
-Japan,JPN,East Asia,240,145914,5105
-Chile,CHL,South America,89,291933,1875
-Laos,LAO,South and Southeast Asia,115,91429,2341
-Cyprus,CYP,West and Central Asia,48,3572,975
-Philippines,PHL,South and Southeast Asia,285,115831,5663
-Malaysia,MYS,South and Southeast Asia,314,127724,6189
-Bosnia and Herzegovina,BIH,Europe,68,19772,1323
-Colombia,COL,South America,388,439700,7540
-China,CHN,East Asia,355,3705000,6895
-Australia,AUS,Oceania,435,2970000,8434
-Brazil,BRA,South America,467,3288000,9001
-South Africa,ZAF,Sub-Saharan Africa,278,470900,5266
-France,FRA,Europe,166,248600,3120
-United Republic of Tanzania,TZA,Sub-Saharan Africa,302,365756,5671
-Bangladesh,BGD,South and Southeast Asia,123,57321,2278
-Indonesia,IDN,South and Southeast Asia,573,735400,10228
-Romania,ROU,Europe,77,92046,1374
-Croatia,HRV,Europe,102,21851,1799
-Morocco,MAR,North Africa,121,172317,2121
-Vietnam,VNM,South and Southeast Asia,303,127881,5311
-Fiji,FJI,Oceania,145,7056,2531
-Syria,SYR,West and Central Asia,72,71498,1252
-India,IND,South and Southeast Asia,398,1269000,6904
-Dominican Republic,DOM,Caribbean Islands,114,18704,1970
-Germany,DEU,Europe,93,137847,1602
-Algeria,DZA,North Africa,84,919600,1435
-Ecuador,ECU,South America,300,98985,5084
 Albania,ALB,Europe,87,11100,1467
-Brunei,BRN,South and Southeast Asia,82,2226,1344
-Montenegro,MNE,Europe,92,5333,1498
-Cuba,CUB,Caribbean Islands,133,42426,2145
-Macedonia,MKD,Europe,68,9928,1062
-United States,USA,North America,576,3797000,8621
+Algeria,DZA,North Africa,84,919600,1435
+Angola,AGO,Sub-Saharan Africa,80,481400,3550
+Antarctica,ATA,Antarctic,7,5275000,258
+Argentina,ARG,South America,138,1074000,3081
+Armenia,ARM,West and Central Asia,15,11484,614
+Australia,AUS,Oceania,435,2970000,8434
 Austria,AUT,Europe,99,32386,1378
-New Zealand,NZL,Oceania,136,103483,1839
-Haiti,HTI,Caribbean Islands,140,10716,1893
-Italy,ITA,Europe,208,116306,2798
-Spain,ESP,Europe,286,195346,3813
-Mexico,MEX,Mesoamerica,582,758400,7053
-Portugal,PRT,Europe,246,35603,2859
-Turkey,TUR,West and Central Asia,186,783356,2063
-Sweden,SWE,Europe,23,204035,191
-Sri Lanka,LKA,South and Southeast Asia,335,25332,2778
-Madagascar,MDG,Sub-Saharan Africa,526,226658,4293
+Azerbaijan,AZE,West and Central Asia,26,33436,777
+Bangladesh,BGD,South and Southeast Asia,123,57321,2278
+Belarus,BLR,North Asia,10,80155,632
+Belgium,BEL,Europe,25,11849,1125
+Belize,BLZ,Mesoamerica,49,8867,2506
+Benin,BEN,Sub-Saharan Africa,74,44310,2347
+Bhutan,BTN,South and Southeast Asia,33,14824,1032
+Bolivia,BOL,South America,71,14824,3003
+Bosnia and Herzegovina,BIH,Europe,68,19772,1323
+Botswana,BWA,Sub-Saharan Africa,19,224607,1493
+Brazil,BRA,South America,467,3288000,9001
+Brunei,BRN,South and Southeast Asia,82,2226,1344
+Bulgaria,BGR,Europe,53,42855,1395
+Burkina Faso,BFA,Sub-Saharan Africa,23,105946,1067
+Burundi,BDI,Sub-Saharan Africa,32,10747,1435
+Cambodia,KHM,South and Southeast Asia,127,69898,3105
 Cameroon,CMR,Sub-Saharan Africa,230,183569,1207
+Canada,CAN,North America,60,3855000,2449
+Central African Republic,CAF,Sub-Saharan Africa,25,240534,1859
+Chad,TCD,Sub-Saharan Africa,27,495800,1126
+Chile,CHL,South America,89,291933,1875
+China,CHN,East Asia,355,3705000,6895
+Colombia,COL,South America,388,439700,7540
+Costa Rica,CRI,Mesoamerica,39,19760,4300
+Cote d'Ivoire,CIV,Sub-Saharan Africa,97,124503,2790
+Croatia,HRV,Europe,102,21851,1799
+Cuba,CUB,Caribbean Islands,133,42426,2145
+Cyprus,CYP,West and Central Asia,48,3572,975
+Czech Republic,CZE,Europe,38,30452,1074
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,150,905600,5140
+Denmark,DNK,Europe,24,16584,1089
+Djibouti,DJI,Sub-Saharan Africa,42,8958,1989
+Dominican Republic,DOM,Caribbean Islands,114,18704,1970
+East Timor,TLS,South and Southeast Asia,33,5794,1677
+Ecuador,ECU,South America,300,98985,5084
+Egypt,EGY,North Africa,75,384791,2498
+El Salvador,SLV,Mesoamerica,39,8124,1936
+Equatorial Guinea,GNQ,Sub-Saharan Africa,79,10831,2114
+Eritrea,ERI,Sub-Saharan Africa,52,45406,2196
+Estonia,EST,Europe,9,17505,652
+Ethiopia,ETH,Sub-Saharan Africa,64,429300,2006
+Falkland Islands,FLK,South America,18,4700,416
+Fiji,FJI,Oceania,145,7056,2531
+Finland,FIN,Europe,15,130559,848
+France,FRA,Europe,166,248600,3120
+French Southern and Antarctic Lands,ATF,Antarctic,19,169800,1136
+Gabon,GAB,Sub-Saharan Africa,77,103347,2762
+Gambia,GMB,Sub-Saharan Africa,61,4127,2085
+Georgia,GEO,West and Central Asia,22,26911,772
+Germany,DEU,Europe,93,137847,1602
+Ghana,GHA,Sub-Saharan Africa,92,92098,2860
 Greece,GRC,Europe,250,50949,785
+Greenland,GRL,Europe,8,836300,418
+Guatemala,GTM,Mesoamerica,152,42042,3502
+Guinea,GIN,Sub-Saharan Africa,106,94926,2795
+Guinea-Bissau,GNB,Sub-Saharan Africa,65,13948,2023
+Guyana,GUY,South America,55,83000,2916
+Haiti,HTI,Caribbean Islands,140,10716,1893
+Honduras,HND,Mesoamerica,161,43433,3746
+Hungary,HUN,Europe,40,35917,1059
+Iceland,ISL,Europe,14,39769,654
+India,IND,South and Southeast Asia,398,1269000,6904
+Indonesia,IDN,South and Southeast Asia,573,735400,10228
+Iran,IRN,West and Central Asia,80,636400,2349
+Iraq,IRQ,West and Central Asia,43,169235,1303
+Ireland,IRL,Europe,30,39769,1214
+Israel,ISR,West and Central Asia,43,8550,2337
+Italy,ITA,Europe,208,116306,2798
+Jamaica,JAM,Caribbean Islands,80,4244,1792
+Japan,JPN,East Asia,240,145914,5105
+Jordan,JOR,West and Central Asia,34,34495,1753
+Kazakhstan,KAZ,West and Central Asia,35,1052000,1055
+Kenya,KEN,Sub-Saharan Africa,142,224961,4625
+Kosovo,OSA,Europe,2,4214,0
+Kuwait,KWT,West and Central Asia,33,6880,1039
+Kyrgyzstan,KGZ,West and Central Asia,13,77182,608
+Laos,LAO,South and Southeast Asia,115,91429,2341
+Latvia,LVA,Europe,9,24938,748
+Lebanon,LBN,West and Central Asia,48,4036,1075
+Lesotho,LSO,Sub-Saharan Africa,13,11720,660
+Liberia,LBR,Sub-Saharan Africa,109,43000,2427
+Libya,LBY,North Africa,42,679400,1007
+Lithuania,LTU,Europe,6,25213,681
+Luxembourg,LUX,Europe,7,998,640
+Macedonia,MKD,Europe,68,9928,1062
+Madagascar,MDG,Sub-Saharan Africa,526,226658,4293
+Malawi,MWI,Sub-Saharan Africa,60,45745,2096
+Malaysia,MYS,South and Southeast Asia,314,127724,6189
+Mali,MLI,Sub-Saharan Africa,23,478800,1240
+Mauritania,MRT,Sub-Saharan Africa,79,398000,1920
+Mexico,MEX,Mesoamerica,582,758400,7053
+Moldova,MDA,North Asia,12,13067,545
+Mongolia,MNG,East Asia,19,603900,1092
+Montenegro,MNE,Europe,92,5333,1498
+Morocco,MAR,North Africa,121,172317,2121
+Mozambique,MOZ,Sub-Saharan Africa,107,309496,4499
+Myanmar,MMR,South and Southeast Asia,165,261227,4723
+Namibia,NAM,Sub-Saharan Africa,57,318696,2513
+Nepal,NPL,South and Southeast Asia,49,56956,1707
+Netherlands,NLD,Europe,24,16040,1178
+New Caledonia,NCL,Oceania,120,7150,2956
+New Zealand,NZL,Oceania,136,103483,1839
+Nicaragua,NIC,Mesoamerica,70,50337,3539
+Niger,NER,Sub-Saharan Africa,24,489200,991
+Nigeria,NGA,Sub-Saharan Africa,134,356669,3365
+North Korea,PRK,East Asia,48,46541,1092
+Northern Cyprus,MNP,West and Central Asia,45,1295,975
+Norway,NOR,Europe,29,148729,1074
+Oman,OMN,West and Central Asia,64,119499,2203
+Pakistan,PAK,West and Central Asia,101,307374,2375
+Panama,PAN,Mesoamerica,159,29157,4538
+Papua New Guinea,PNG,Oceania,160,178704,5615
+Paraguay,PRY,South America,21,157048,1441
+Peru,PER,South America,214,496200,5449
+Philippines,PHL,South and Southeast Asia,285,115831,5663
+Poland,POL,Europe,37,124574,1148
+Portugal,PRT,Europe,246,35603,2859
+Puerto Rico,PRI,Caribbean Islands,58,3515,1886
+Qatar,QAT,West and Central Asia,33,4468,917
+Republic of the Congo,COG,Sub-Saharan Africa,57,132047,2708
+Romania,ROU,Europe,77,92046,1374
+Russia,RUS,North Asia,93,6602000,2610
+Rwanda,RWA,Sub-Saharan Africa,34,10169,1413
+Saudi Arabia,SAU,West and Central Asia,61,830000,2264
+Senegal,SEN,Sub-Saharan Africa,81,75955,2519
+Serbia,SRB,Europe,53,34170,1194
+Sierra Leone,SLE,Sub-Saharan Africa,92,27699,2504
+Slovakia,SVK,Europe,36,18933,1038
+Slovenia,SVN,Europe,66,7827,1557
+Solomon Islands,SLB,Oceania,59,11157,2952
+Somalia,SOM,Sub-Saharan Africa,67,246200,3211
+Somaliland,ABV,Sub-Saharan Africa,88,110000,0
+South Africa,ZAF,Sub-Saharan Africa,278,470900,5266
+South Korea,KOR,East Asia,64,38750,1752
+South Sudan,SDS,Sub-Saharan Africa,24,248777,1467
+Spain,ESP,Europe,286,195346,3813
+Sri Lanka,LKA,South and Southeast Asia,335,25332,2778
+Sudan,SDN,Sub-Saharan Africa,57,718700,2860
+Suriname,SUR,South America,40,63251,2734
+Swaziland,SWZ,Sub-Saharan Africa,20,6704,1252
+Sweden,SWE,Europe,23,204035,191
+Switzerland,CHE,Europe,58,15940,1254
+Syria,SYR,West and Central Asia,72,71498,1252
+Taiwan,TWN,East Asia,113,13976,4131
+Tajikistan,TJK,West and Central Asia,16,54595,620
+Thailand,THA,South and Southeast Asia,221,198115,5783
+The Bahamas,BHS,Caribbean Islands,55,5359,2099
+Togo,TGO,Sub-Saharan Africa,72,21925,2344
+Trinidad and Tobago,TTO,Caribbean Islands,44,1980,2325
+Tunisia,TUN,North Africa,56,63170,1247
+Turkey,TUR,West and Central Asia,186,783356,2063
+Turkmenistan,TKM,West and Central Asia,26,188456,767
+Uganda,UGA,Sub-Saharan Africa,93,93065,2618
+Ukraine,UKR,North Asia,52,233062,1250
+United Arab Emirates,ARE,West and Central Asia,45,32278,1500
+United Kingdom,GBR,Europe,48,93628,1659
+United Republic of Tanzania,TZA,Sub-Saharan Africa,302,365756,5671
+United States,USA,North America,576,3797000,8621
+Uruguay,URY,South America,59,68037,1378
+Uzbekistan,UZB,West and Central Asia,22,172742,688
+Vanuatu,VUT,Oceania,32,7410,2312
+Venezuela,VEN,South America,216,353841,5275
+Vietnam,VNM,South and Southeast Asia,303,127881,5311
+West Bank,WLF,West and Central Asia,0,2263,0
+Western Sahara,ESH,North Africa,43,102703,1246
+Yemen,YEM,West and Central Asia,60,203850,2635
+Zambia,ZMB,Sub-Saharan Africa,42,290587,2445
+Zimbabwe,ZWE,Sub-Saharan Africa,28,150872,1933
